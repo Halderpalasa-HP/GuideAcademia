@@ -1,0 +1,6 @@
+{
+  "name": "EduSphere",
+  "description": "Plateforme d'apprentissage en ligne de type Udemy avec monétisation par Mobile Money & Carte, tuteur IA interactif, studios professeurs et gouvernance administrateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
